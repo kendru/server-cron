@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cron": "^1.2.0",
     "koa": "^2.3.0",
-    "cron": "^1.2.0"
+    "prom-client": "^10.0.2"
   }
 }
