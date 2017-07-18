@@ -9,6 +9,6 @@ app.use(ctx => {
     ctx.body = `the counter is now set to ${common.get()}`
 });
 
-app.listen(5000, () => {
+app.listen(3000, () => {
     console.log('Application server listening on port 3000')
 });
